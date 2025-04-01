@@ -5,9 +5,16 @@
 ###
 
 <div align="center">
-  <a href="https://twitter.com/FRC4269">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25"/>
+  <a href="https://www.facebook.com/FRC4269/">
+    <img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white" height="25"/>  
   </a>
+  <a href="https://twitter.com/FRC4269">
+    <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FFRC4269&label=Twitter" height="25"/>
+  </a>
+  <a href="https://www.instagram.com/frc4269/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="25"/>  
+  </a>
+    
 
   <!--
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
