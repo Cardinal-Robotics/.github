@@ -29,4 +29,8 @@
 
 <h1 align="center">Cardinalbots (FRC 4269)</h1>
 
-<h3>About Us</h3>
+<h2>About Us</h2>
+<img></img>
+We're team 4269, the CardinalBots. We represent St. Charles Preparatory School and are located in Bexley, Ohio. Our team was founded in 2012, and we try our hardest each year.
+
+<h2>Sponsors</h2>
